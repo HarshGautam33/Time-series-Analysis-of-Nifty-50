@@ -5,7 +5,6 @@ This project explores **volatility modeling** and **forecasting techniques** in 
 ---
 
 <img width="1291" height="591" alt="download (4)" src="https://github.com/user-attachments/assets/276b9141-5670-4696-a5b5-e51f8e11bb23" />
-![687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36342f5661525f6469616772616d2e4a5047](https://github.com/user-attachments/assets/b5ffe2d8-a4e1-4f2c-b308-3f0330861908)
 <img width="1304" height="637" alt="download (5)" src="https://github.com/user-attachments/assets/ff728d2e-d0a9-49d5-8a7e-043280ee3ac7" />
 
 
